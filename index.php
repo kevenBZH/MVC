@@ -1,6 +1,6 @@
 <?php
 
-require('Controlleur.php');
+require('Controlleur/Controlleur.php');
 
 try {
   if (isset($_GET['action'])) {
